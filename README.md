@@ -5,7 +5,7 @@ Lets Chat is a modern, full-featured chat application built with React, Vite, an
 ## Features
 
 - **User Registration & Login**: Secure authentication with email and password.
-- **Individual Chat**: One-on-one messaging with real-time updates and notifications.
+- **Individual Chat**: One-on-one messaging with real-time updates and notification.
 - **Group Chat**: Create and join groups, manage members, and assign admins.
 - **Tagging Friends**: Tag friends for quick access in a dedicated dashboard section.
 - **View Once Messages**: Send messages that can only be viewed once.
